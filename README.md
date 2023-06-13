@@ -43,12 +43,14 @@
 ###   4.	Load filament into the required extruder as per the requirement.
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
-###   7.	Open the file from the USB storage and select the Print option.
+#   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
 
-### Name:
-### Register Number:
+![Exp8_EMPD](https://github.com/CHANDRUMANIKANDAN/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118644502/fddc4996-2186-4e5b-9e82-7941d17b80de)
+
+### Name: CHANDRU M
+### Register Number: 212222100009
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
